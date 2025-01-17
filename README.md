@@ -1,42 +1,45 @@
 # Teasure-Hunt
-Welcome to Treasure Island, a text-based adventure game where your choices determine your fate. Your mission is to find the hidden treasure while avoiding the many dangers that await you!
+# 🎮 Welcome to **Treasure Island** 🏝️  
 
-#How to Play
+**Treasure Island** is an exciting text-based adventure game where every decision you make could lead to glory or doom. Test your wits, embrace the thrill, and find the hidden treasure… if you dare!  
 
-1.Run the game script to start the adventure.
+---
 
-2.Follow the prompts and make decisions by typing your choices.
+## 🕹️ How to Play  
+1. **Run the Game Script**: Start your adventure by executing the script.  
+2. **Make Your Choices**: Follow the prompts and type your decisions when asked.  
+3. **Survive and Succeed**: Each decision shapes your destiny. Will you claim the treasure or fall victim to the island’s perils?  
 
-3.Be careful! Each choice could lead you closer to the treasure or to your doom.
+---
 
-#Game Story
+## 🌟 Game Story  
+You awaken on the mysterious **Treasure Island**, standing at a **crossroads**. To find the treasure, you must make the right decisions while navigating the island’s dangers:  
+- **Choose your path** at the crossroads: Left or Right?  
+- **Face the lake**: Will you wait for a boat or swim across?  
+- **Enter the treasure house**: Three doors await—choose wisely!  
 
-You find yourself at a crossroads on the mysterious Treasure Island. From there, you'll face various challenges:
+Each choice matters, and one wrong move could end your adventure.  
 
-   Decide whether to go left or right.
+---
 
-   Navigate across a lake by choosing to wait for a boat or swim.
+## 🗺️ Decision Points  
+1. **Crossroad**: Choose `"left"` or `"right"`.  
+2. **Lake**: Choose `"wait"` or `"swim"`.  
+3. **Treasure House**: Choose a door—`"red"`, `"yellow"`, or `"blue"`.  
 
-   Choose the correct door in the treasure house: red, yellow, or blue.
+---
 
-Will you find the treasure, or will you meet your end? The choice is yours.
+## 🏆 Possible Outcomes  
+- **Yellow Door**: 🎉 **Congratulations! You find the treasure and win!**  
+- **Red Door**: 🔥 **Game Over! The room is filled with fire.**  
+- **Blue Door**: 🐾 **Game Over! Beasts attack you.**  
+- Wrong turns can also lead to tragic ends like falling into a hole or being attacked by a trout.  
 
+---
 
+## 📌 Features  
+- **Interactive Gameplay**: Every choice matters.  
+- **Multiple Endings**: Different outcomes based on your decisions.  
+- **Engaging Challenges**: Explore the island’s mysteries.  
 
-#Decision Points
-
-   Crossroad: Choose "left" or "right".
-
-   Lake: Choose "wait" or "swim".
-
-   House: Choose a door ("red", "yellow", "blue").
-
-#Possible Outcomes
-
-   Yellow Door: You find the treasure and win!
-
-   Red Door: You encounter fire and lose.
-
-   Blue Door: You meet beasts and lose.
-
-   Wrong moves lead to Game Over screens like falling into a hole or getting attacked by a trout.
+---
